@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PortScanner": {
+      "commandName": "Project",
+      "commandLineArgs": "172.21.16.0/24 443,80"
+    }
+  }
+}
